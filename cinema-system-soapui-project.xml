@@ -61,4 +61,13 @@
   "minAge": 16,
   "length": 120
 }
+}</con:request><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request><con:request name="julieta" id="1262db01-bdc7-454d-a8f6-385835537563" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://localhost:8080</con:endpoint><con:request>{
+"movie": {
+  "title": "Julieta",
+  "description": "After a casual encounter, a brokenhearted woman decides to confront her life and the most important events about her stranded daughter.",
+  "actors": ["Adriana Ugarte", "Rossy de Palma" , "Emma Suarez"],
+  "genres": ["Romance", "Drama"],
+  "minAge": 0,
+  "length": 139
+}
 }</con:request><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource></con:interface><con:properties/><con:wssContainer/><con:oAuth2ProfileContainer/><con:sensitiveInformation/></con:soapui-project>
